@@ -2,8 +2,8 @@ POST http://localhost:3003/api/blogs
 content-type: application/json
 
 {
-   "title": "My Blog",
+   "title": "My Blog v2",
    "author": "Maarten Hogeveen",
    "url": "https://myfakeblog.com",
-   "likes": 12
+   "likes": 3
 }
